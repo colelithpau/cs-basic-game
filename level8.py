@@ -1,0 +1,15 @@
+hero.moveRight()
+hero.attack("Sog")
+hero.attack("Gos")
+hero.attack("Gos")
+hero.attack("Sog")
+hero.moveDown()
+hero.moveUp()
+hero.moveRight(2)
+hero.moveDown()
+hero.attack("Kro")
+hero.attack("Kro")
+hero.attack("Ergo")
+hero.attack("Ergo")
+
+
