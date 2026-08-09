@@ -1,7 +1,7 @@
 🚀 How to Run
-These scripts are designed to run within the CodeCombat Game Development engine.
+These scripts are designed to run within the CodeCombat CS1 map engine.
 
-To test, copy the code from the .py or .js file.
+To test, copy the code from the .py file.
 
 Paste it into the CodeCombat editor for the corresponding level.
 
