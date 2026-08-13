@@ -13,12 +13,13 @@ Run the code to see the game logic in action!
 https://codecombat.com/play/game-dev-level/6a1933178d7def41d898b39d
 ```
 
+```
 ## Instructions
 
 1. **Open codecombat**
 2. **You need to be in the map of CS1**
 3. **Use codecombat UI/UX and edit your code in the given IDE on the left side of your screen.**
-
+```
 ```
 “Code is not just for solving problems; it’s for creating experiences.”
 ```
