@@ -1,4 +1,7 @@
-🚀 How to Run
+```bash
+cd ~
+
+cd 🚀 How to Run
 These scripts are designed to run within the CodeCombat CS1 map engine.
 
 To test, copy the code from the .py file.
@@ -6,7 +9,7 @@ To test, copy the code from the .py file.
 Paste it into the CodeCombat editor for the corresponding level.
 
 Run the code to see the game logic in action!
-
+```
 
 ## Link to play the game project: 
 https://codecombat.com/play/game-dev-level/6a1933178d7def41d898b39d
